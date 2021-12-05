@@ -1,0 +1,10 @@
+{
+  "name": "advent-of-code-2021-solutions-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Ratko Solar <ratko.solar@gmail.com> (https://ratkosolar.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  }
+}
