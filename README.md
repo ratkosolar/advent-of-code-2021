@@ -1,11 +1,13 @@
-# Advent of Code 2021
+# Advent of Code 2021 (JavaScript solutions)
 
-[Day 1 Assignment](https://adventofcode.com/2021/day/1)
+Just a repo with my solutions for advent of code 2021 written in Node.js aka JavaScript :)
 
-[Day 2 Assignment](https://adventofcode.com/2021/day/2)
+[Day 1 Assignment](https://adventofcode.com/2021/day/1) :heavy_check_mark:
 
-[Day 3 Assignment](https://adventofcode.com/2021/day/3)
+[Day 2 Assignment](https://adventofcode.com/2021/day/2) :heavy_check_mark:
 
-[Day 4 Assignment](https://adventofcode.com/2021/day/4)
+[Day 3 Assignment](https://adventofcode.com/2021/day/3) :heavy_check_mark:
 
-[Day 5 Assignment](https://adventofcode.com/2021/day/5)
+[Day 4 Assignment](https://adventofcode.com/2021/day/4) :heavy_check_mark:
+
+[Day 5 Assignment](https://adventofcode.com/2021/day/5) :heavy_check_mark:
