@@ -7,3 +7,5 @@
 [Day 3 Assignment](https://adventofcode.com/2021/day/3)
 
 [Day 4 Assignment](https://adventofcode.com/2021/day/4)
+
+[Day 5 Assignment](https://adventofcode.com/2021/day/5)
