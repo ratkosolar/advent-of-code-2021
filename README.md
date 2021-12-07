@@ -13,3 +13,5 @@ Just a repo with my solutions for advent of code 2021 written in Node.js aka Jav
 [Day 5 Assignment](https://adventofcode.com/2021/day/5) :heavy_check_mark:
 
 [Day 6 Assignment](https://adventofcode.com/2021/day/6) :heavy_check_mark:
+
+[Day 7 Assignment](https://adventofcode.com/2021/day/7) :heavy_check_mark:
